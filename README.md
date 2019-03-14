@@ -10,9 +10,9 @@ Tote bag vexillologist retro edison bulb pop-up culpa ugh paleo irony tempor +1.
 
 Activated charcoal forage ut, trust fund disrupt mollit whatever banjo viral laborum marfa tofu venmo crucifix. Exercitation bushwick mollit sartorial vinyl cloud bread mustache fam sed. Ex af live-edge kitsch direct trade salvia affogato pop-up man braid wayfarers trust fund chambray bushwick kogi drinking vinegar. Cred elit reprehenderit, kickstarter literally raclette pinterest salvia dolore brooklyn ramps. Deep v single-origin coffee pinterest readymade kogi organic minim vape biodiesel chillwave slow-carb pabst. Commodo do fanny pack aliqua humblebrag +1 craft beer minim tousled.
 
-Street art af butcher mustache enamel pin distillery nulla sriracha trust fund tofu prism tumblr seitan. Health goth cupidatat offal, deep v schlitz ramps cliche selfies 3 wolf moon ad occaecat iceland. Before they sold out coloring book elit raclette iceland culpa bicycle rights ex incididunt subway tile adipisicing cillum fam craft beer. Deep v four dollar toast edison bulb hashtag bitters. Poke stumptown hashtag, cornhole scenester dolore XOXO freegan aesthetic drinking vinegar iceland. Street art occupy poke la croix. Nulla locavore four loko pug minim raw denim cillum try-hard poke hella plaid semiotics.
 
-Oh. You need a little dummy text for your mockup? How quaint.
+
+
 
 
 I bet you’re still using Bootstrap too…
@@ -26,3 +26,8 @@ Shabby chic offal coloring book, kinfolk enim neutra occaecat ugh esse wayfarers
 Hammock yr in cray narwhal quinoa, echo park sartorial affogato art party pok pok lomo. Four dollar toast neutra palo santo knausgaard air plant. Umami microdosing nisi laboris enamel pin blog drinking vinegar officia man braid ullamco put a bird on it dolore hot chicken voluptate. Pitchfork PBR&B hashtag, plaid selfies meditation taxidermy dolore. Poke est man bun activated charcoal fam. Hell of taiyaki tacos aute echo park. Af asymmetrical four dollar toast mumblecore tote bag.
 
 Squid locavore blog chillwave, glossier af tumblr fugiat aesthetic vexillologist PBR&B ugh street art swag raclette. Pour-over bitters everyday carry retro, velit gastropub jean shorts godard yr you probably haven't heard of them selfies pinterest flexitarian lo-fi. Reprehenderit pok pok shabby chic, in forage hell of raclette listicle DIY. Consectetur irure poke butcher hell of prism. Consectetur est ea, gentrify pitchfork cardigan umami coloring book raw denim snackwave. Church-key incididunt keytar, coloring book tousled bespoke proident artisan master cleanse forage you probably haven't heard of them typewriter cloud bread.
+
+
+##WEBSITE CONTENT
+
+##Even more changes
